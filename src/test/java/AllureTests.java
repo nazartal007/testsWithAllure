@@ -22,7 +22,6 @@ public class AllureTests {
             REPOSITORY_NAME = "eroshenkoam/allure-example",
             NAME_ISSUE_68 = "Listeners NamedBy";
 
-
     @Test
     @Story("Тесты на чистом селениде")
     @DisplayName("Проверка имени issue 68 - просто селенид")
